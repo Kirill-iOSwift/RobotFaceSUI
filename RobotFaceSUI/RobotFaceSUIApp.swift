@@ -11,7 +11,7 @@ import SwiftUI
 struct RobotFaceSUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ShowFaceView()
         }
     }
 }
